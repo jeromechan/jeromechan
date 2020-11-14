@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 我是Jerome明允，一名Java与前端开发工程师；
+- 🔭 我是Jerome明允，一名Java服务端开发工程师；
 - 🌱 曾任职于阿里巴巴，重点关注Java技术与服务端架构设计；
 - 🤔 GitHub是自己作为程序员的一片思考、实践的自留地；
 - 📫 由于中国大陆访问网速问题，个人会更多在Gitee更新动态，链接：https://gitee.com/jeromechan ；
